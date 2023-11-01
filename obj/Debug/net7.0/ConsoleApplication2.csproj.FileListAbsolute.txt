@@ -1,0 +1,15 @@
+/home/brad1996/ConsoleApplication2/bin/Debug/net7.0/ConsoleApplication2
+/home/brad1996/ConsoleApplication2/bin/Debug/net7.0/ConsoleApplication2.deps.json
+/home/brad1996/ConsoleApplication2/bin/Debug/net7.0/ConsoleApplication2.runtimeconfig.json
+/home/brad1996/ConsoleApplication2/bin/Debug/net7.0/ConsoleApplication2.dll
+/home/brad1996/ConsoleApplication2/bin/Debug/net7.0/ConsoleApplication2.pdb
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.csproj.AssemblyReference.cache
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.AssemblyInfoInputs.cache
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.AssemblyInfo.cs
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.csproj.CoreCompileInputs.cache
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.dll
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/refint/ConsoleApplication2.dll
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.pdb
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ConsoleApplication2.genruntimeconfig.cache
+/home/brad1996/ConsoleApplication2/obj/Debug/net7.0/ref/ConsoleApplication2.dll
