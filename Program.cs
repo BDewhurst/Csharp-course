@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.Xml.XPath;
 using Microsoft.VisualBasic;
 
 public class Lecture {
@@ -34,5 +35,17 @@ public class Assignment1 {
        int intValue = int.Parse(stringForInt);
         Console.WriteLine(intValue);
         Console.WriteLine(floatValue);
+        writeSomething();
+     
     }  
+
+    public static void writeSomething() {
+        Console.WriteLine("I am a method");
+     string result = greetFriend("fred");
+     Console.WriteLine(result);
+    }
+
+    public static string greetFriend(string name) {
+    return $"Hello {name}";
+    }
 }
