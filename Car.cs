@@ -15,12 +15,25 @@ namespace ClassesAndObjects
         private int _hp;
         private string _colour;
 
+        public string Colour { 
+        get {
+            return _colour;
+        } set {
+            _colour = value;
+
+        }
+        }
+
         public void setName(string name) {
             _name = name;
         }
 
         public string getName() {
             return _name;
+        }
+
+        public int getHp() {
+            return _hp;
         }
         public Car(){
             _name = "Car";

@@ -13,7 +13,9 @@ internal class Program
   audi.Drive("audi");
   audi.Details();
   myCar.setName("Ford");
+  myCar.Colour = "Green";
   Console.WriteLine(myCar.getName());
+  Console.WriteLine(myCar.getHp());
   myCar.Details();
 
   Console.WriteLine("Press 1 to stop car");
