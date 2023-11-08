@@ -13,6 +13,21 @@ namespace ClassesAndObjects
 
         private string _name; 
         private int _hp;
+        private string _colour;
+
+        public void setName(string name) {
+            _name = name;
+        }
+
+        public string getName() {
+            return _name;
+        }
+        public Car(){
+            _name = "Car";
+            _hp = 0;
+            _colour = "red";
+
+        }
         public Car(string name, int hp = 0) {
             _name = name; 
             Console.WriteLine( name + " was created");
@@ -29,7 +44,7 @@ namespace ClassesAndObjects
 
         public void Details () {
             
-            Console.WriteLine("the " + _name + " has " + _hp + "hp");
+            Console.WriteLine("the " + _name + " has " + _hp + "hp and the colour is " + _colour );
         }
     }
 }
