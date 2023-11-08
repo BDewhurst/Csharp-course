@@ -22,8 +22,9 @@ namespace ClassesAndObjects
             _colour = value;
 
         }
+        
         }
-
+        public int maxSpeed { get; set; }
         public void setName(string name) {
             _name = name;
         }

@@ -16,6 +16,8 @@ internal class Program
   myCar.Colour = "Green";
   Console.WriteLine(myCar.getName());
   Console.WriteLine(myCar.getHp());
+  myCar.maxSpeed = 180;
+  Console.WriteLine("My car max speed is " + myCar.maxSpeed);
   myCar.Details();
 
   Console.WriteLine("Press 1 to stop car");
