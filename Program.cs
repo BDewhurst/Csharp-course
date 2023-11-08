@@ -7,12 +7,14 @@ using Microsoft.VisualBasic;
 internal class Program
 {
  static void Main(string[] args) { 
-  Car audi = new Car();
-  audi.Drive();
+  Car audi = new Car("audi", 350);
+  Car bmw = new Car("bmw");
+  audi.Drive("audi");
+  audi.Details();
   Console.WriteLine("Press 1 to stop car");
   string userInput = Console.ReadLine();
   if (userInput == "1") {
-    audi.Stop();
+    audi.Stop("audi");
   }
     }
 }
